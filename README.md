@@ -7,7 +7,7 @@
 <p align="center">Integrate LDAP into your Lumen application.</p>
 
 <p align="center">
-    <a href="https://laravel.com"><img src="https://img.shields.io/badge/Built_for-Laravel-green.svg?style=flat-square"></a>
+    <a href="https://lumen.laravel.com"><img src="https://img.shields.io/badge/Built_for-Lumen-green.svg?style=flat-square"></a>
     <a href="https://travis-ci.com/directorytree/ldaprecord-lumen"><img src="https://img.shields.io/travis/directorytree/ldaprecord-lumen.svg?style=flat-square"></a>
     <a href="https://scrutinizer-ci.com/g/directorytree/ldaprecord-lumen"><img src="https://img.shields.io/scrutinizer/g/directorytree/ldaprecord-lumen/master.svg?style=flat-square"></a>
     <a href="https://packagist.org/packages/directorytree/ldaprecord-lumen"><img src="https://img.shields.io/packagist/dt/directorytree/ldaprecord-lumen.svg?style=flat-square"></a>

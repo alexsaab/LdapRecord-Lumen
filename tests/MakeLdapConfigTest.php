@@ -3,9 +3,17 @@
 namespace LdapRecord\Lumen\Tests;
 
 use Illuminate\Filesystem\Filesystem;
+use LdapRecord\Lumen\LdapServiceProvider;
 
 class MakeLdapConfigTest extends TestCase
 {
+    protected function setUp(): void
+    {
+        parent::setUp();
+
+        app()->register(LdapServiceProvider::class);
+    }
+
     protected function tearDown(): void
     {
         $this->deleteConfigStub();

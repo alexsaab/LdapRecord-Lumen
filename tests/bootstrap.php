@@ -73,8 +73,6 @@ $app->configure('ldap');
 |
 */
 
-$app->register(\LdapRecord\Lumen\LdapServiceProvider::class);
-$app->register(\LdapRecord\Lumen\LdapAuthServiceProvider::class);
 
 /*
 |--------------------------------------------------------------------------
