@@ -16,6 +16,9 @@ class LdapServiceProvider extends BaseServiceProvider
         return $this;
     }
 
+    /**
+     * {@inheritDoc}
+     */
     protected function registerCommands()
     {
         parent::registerCommands();
