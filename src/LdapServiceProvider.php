@@ -15,4 +15,13 @@ class LdapServiceProvider extends BaseServiceProvider
 
         return $this;
     }
+
+    protected function registerCommands()
+    {
+        parent::registerCommands();
+
+        $this->commands([MakeLdapConfig::class]);
+
+        return $this;
+    }
 }
