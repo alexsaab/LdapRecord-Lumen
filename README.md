@@ -6,6 +6,23 @@
 
 <p align="center">Integrate LDAP into your Lumen application.</p>
 
+<p align="center">
+    <a href="https://laravel.com"><img src="https://img.shields.io/badge/Built_for-Laravel-green.svg?style=flat-square"></a>
+    <a href="https://travis-ci.com/directorytree/ldaprecord-lumen"><img src="https://img.shields.io/travis/directorytree/ldaprecord-lumen.svg?style=flat-square"></a>
+    <a href="https://scrutinizer-ci.com/g/directorytree/ldaprecord-lumen"><img src="https://img.shields.io/scrutinizer/g/directorytree/ldaprecord-lumen/master.svg?style=flat-square"></a>
+    <a href="https://packagist.org/packages/directorytree/ldaprecord-lumen"><img src="https://img.shields.io/packagist/dt/directorytree/ldaprecord-lumen.svg?style=flat-square"></a>
+    <a href="https://packagist.org/packages/directorytree/ldaprecord-lumen"><img src="https://img.shields.io/packagist/v/directorytree/ldaprecord-lumen.svg?style=flat-square"></a>
+    <a href="https://packagist.org/packages/directorytree/ldaprecord-lumen"><img src="https://img.shields.io/packagist/l/directorytree/ldaprecord-lumen.svg?style=flat-square"></a>
+</p>
+
+<h4 align="center">
+    <a href="https://ldaprecord.com/docs/laravel/quickstart">Quickstart</a>
+    <span> · </span>
+    <a href="https://ldaprecord.com/docs/laravel">Documentation</a>
+    <span> · </span>
+    <a href="https://github.com/DirectoryTree/LdapRecord-Discussions/issues/new">Post a Question</a>
+</h4>
+
 ---
 
 <h3 align="center">LdapRecord-Lumen is Supportware™</h3>
