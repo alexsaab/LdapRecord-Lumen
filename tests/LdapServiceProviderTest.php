@@ -22,12 +22,16 @@ class LdapServiceProviderTest extends TestCase
         app()->register(LdapServiceProvider::class);
     }
 
-    public function test_connections_are_registered()
+    public function test_connections_are_auto_loaded()
     {
         $this->assertIsArray($connections = Container::getInstance()->all());
         $this->assertCount(1, $connections);
 
         $this->assertInstanceOf(Connection::class, $default = $connections['default']);
-        $this->assertEquals(['localhost'], $default->getConfiguration()->get('hosts'));
+
+        $config = $default->getConfiguration();
+        $this->assertEquals(['localhost'], $config->get('hosts'));
+        $this->assertEquals('user', $config->get('username'));
+        $this->assertEquals('secret', $config->get('password'));
     }
 }

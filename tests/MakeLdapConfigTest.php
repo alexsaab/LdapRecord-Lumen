@@ -39,7 +39,7 @@ class MakeLdapConfigTest extends TestCase
         return __DIR__.'/../config';
     }
 
-    public function test_configuration_can_be_published()
+    public function test_configuration_file_can_be_published()
     {
         $this->artisan('make:ldap-config');
 
