@@ -16,9 +16,9 @@
 </p>
 
 <h4 align="center">
-    <a href="https://ldaprecord.com/docs/laravel/lumen#installation">Installation</a>
+    <a href="https://ldaprecord.com/docs/laravel/v1/lumen#installation">Installation</a>
     <span> · </span>
-    <a href="https://ldaprecord.com/docs/laravel/lumen">Documentation</a>
+    <a href="https://ldaprecord.com/docs/laravel/v1/lumen">Documentation</a>
     <span> · </span>
     <a href="https://github.com/DirectoryTree/LdapRecord-Discussions/issues/new">Post a Question</a>
 </h4>
