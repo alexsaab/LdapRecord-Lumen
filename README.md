@@ -16,11 +16,11 @@
 </p>
 
 <h4 align="center">
-    <a href="https://ldaprecord.com/docs/laravel/v1/lumen#installation">Installation</a>
+    <a href="https://ldaprecord.com/docs/laravel/v2/lumen#installation">Installation</a>
     <span> · </span>
-    <a href="https://ldaprecord.com/docs/laravel/v1/lumen">Documentation</a>
+    <a href="https://ldaprecord.com/docs/laravel/v2/lumen">Documentation</a>
     <span> · </span>
-    <a href="https://github.com/DirectoryTree/LdapRecord-Discussions/issues/new">Post a Question</a>
+    <a href="https://github.com/DirectoryTree/LdapRecord-Lumen/discussions/new">Post a Question</a>
 </h4>
 
 ---
