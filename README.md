@@ -8,7 +8,7 @@
 
 <p align="center">
     <a href="https://lumen.laravel.com"><img src="https://img.shields.io/badge/Built_for-Lumen-green.svg?style=flat-square"></a>
-    <a href="https://travis-ci.com/directorytree/ldaprecord-lumen"><img src="https://img.shields.io/travis/directorytree/ldaprecord-lumen.svg?style=flat-square"></a>
+    <a href="https://github.com/DirectoryTree/LdapRecord-Lumen/actions"><img src="https://img.shields.io/github/workflow/status/directorytree/ldaprecord-lumen/run-tests.svg?style=flat-square"></a>
     <a href="https://scrutinizer-ci.com/g/directorytree/ldaprecord-lumen"><img src="https://img.shields.io/scrutinizer/g/directorytree/ldaprecord-lumen/master.svg?style=flat-square"></a>
     <a href="https://packagist.org/packages/directorytree/ldaprecord-lumen"><img src="https://img.shields.io/packagist/dt/directorytree/ldaprecord-lumen.svg?style=flat-square"></a>
     <a href="https://packagist.org/packages/directorytree/ldaprecord-lumen"><img src="https://img.shields.io/packagist/v/directorytree/ldaprecord-lumen.svg?style=flat-square"></a>
