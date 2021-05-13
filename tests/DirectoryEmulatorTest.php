@@ -2,10 +2,10 @@
 
 namespace LdapRecord\Lumen\Tests;
 
-use LdapRecord\Lumen\LdapServiceProvider;
-use LdapRecord\Models\ActiveDirectory\User;
 use LdapRecord\Laravel\Testing\DirectoryEmulator;
 use LdapRecord\Laravel\Testing\EmulatedConnectionFake;
+use LdapRecord\Lumen\LdapServiceProvider;
+use LdapRecord\Models\ActiveDirectory\User;
 
 class DirectoryEmulatorTest extends TestCase
 {

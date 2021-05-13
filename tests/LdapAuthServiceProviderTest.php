@@ -47,7 +47,7 @@ class LdapAuthServiceProviderTest extends TestCase
             'model' => User::class,
             'database' => [
                 'model' => Model::class,
-            ]
+            ],
         ]]);
 
         $this->assertInstanceOf(DatabaseUserProvider::class, Auth::createUserProvider('ldap'));
