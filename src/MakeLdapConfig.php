@@ -131,6 +131,6 @@ class MakeLdapConfig extends Command
      */
     protected function getLdapConfigPath($configPath)
     {
-        return $configPath . DIRECTORY_SEPARATOR . 'ldap.php';
+        return $configPath.DIRECTORY_SEPARATOR.'ldap.php';
     }
 }

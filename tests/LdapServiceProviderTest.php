@@ -2,8 +2,8 @@
 
 namespace LdapRecord\Lumen\Tests;
 
-use LdapRecord\Container;
 use LdapRecord\Connection;
+use LdapRecord\Container;
 use LdapRecord\Lumen\LdapServiceProvider;
 
 class LdapServiceProviderTest extends TestCase

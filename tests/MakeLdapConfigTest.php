@@ -31,7 +31,7 @@ class MakeLdapConfigTest extends TestCase
 
     protected function configFilePath()
     {
-        return $this->configFileFolder() . '/ldap.php';
+        return $this->configFileFolder().'/ldap.php';
     }
 
     protected function configFileFolder()
