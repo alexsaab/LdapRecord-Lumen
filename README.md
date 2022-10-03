@@ -4,7 +4,7 @@
     <img src="https://ldaprecord.com/logo.svg" width="400">
 </p>
 
-<p align="center">Integrate LDAP into your Lumen application.</p>
+<p align="center">Integrate LDAP into your Lumen application for version ^5.6 up to 9.0 version.</p>
 
 <p align="center">
     <a href="https://lumen.laravel.com"><img src="https://img.shields.io/badge/Built_for-Lumen-green.svg?style=flat-square"></a>
@@ -24,9 +24,3 @@
 </h4>
 
 ---
-
-<h3 align="center">LdapRecord-Lumen is Supportware™</h3>
-
-<p align="center">If you require support using LdapRecord-Lumen, a <a href="https://github.com/sponsors/stevebauman">sponsorship</a> is required :pray:</p>
-
-<p align="center">Thank you for your understanding :heart:</p>
