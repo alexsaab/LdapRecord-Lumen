@@ -1,6 +1,6 @@
 {
-    "name": "directorytree/ldaprecord-lumen",
-    "description": "LDAP Authentication & Management for Lumen.",
+    "name": "alexsaab/ldaprecord-lumen",
+    "description": "LDAP Authentication & Management for Lumen (up to version grater than 9.0)",
     "keywords": ["ldaprecord", "adldap2", "ldap", "lumen"],
     "license": "MIT",
     "type": "project",
